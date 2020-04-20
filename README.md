@@ -11,6 +11,9 @@
 ├── stackflowAnalysis.ipynb
 ├── survey_results_public.csv
 └── survey_results_schema.csv
-```  
+``` 
+### Blog address
+https://medium.com/@yycncom/stack-overflow-survey-2017-dataset-an-insight-into-code-monkey-e137f529825b
+ 
 ### Installation
-  Python3+,Anaconda is proposed.There is no other installation requirment. 
+  Python3+,numpy,sklearn,pandas.Anaconda is proposed.There is no other installation requirment. 
